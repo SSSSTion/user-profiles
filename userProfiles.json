@@ -1,0 +1,58 @@
+{
+    "userProfiles": [
+      {
+        "firstName": "Jonathan",
+        "lastName": "Joestar",
+        "email": "Jonathan.Joestar@JoJo.com",
+        "dateOfBirth": "1867-04-04",
+        "address": {
+            "street": "1600 Amphitheatre Parkway",
+            "city": "Mountain View",
+            "state": "California",
+            "zipCode": "94043"
+        },
+        "preferences": {
+          "theme": "blue",
+          "language": "English",
+          "notifications": true,
+          "subscription": false
+        }
+      },
+      {
+        "firstName": "Joseph",
+        "lastName": "Joestar",
+        "email": "Joseph.Joestar@JoJo.com",
+        "dateOfBirth": "1920-09-27",
+        "address": {
+            "street": "350 Fifth Avenue",
+            "city": "New York",
+            "state": "New York",
+            "zipCode": "10118"
+        },
+        "preferences": {
+          "theme": "dark",
+          "language": "Spanish",
+          "notifications": false,
+          "subscription": true
+        }
+      },
+      {
+        "firstName": "Erina",
+        "lastName": "Joestar",
+        "email": "Erina.Joestar@JoJo.com",
+        "dateOfBirth": "1865-06-30",
+        "address": {
+            "street": "1 Infinite Loop",
+            "city": "Cupertino",
+            "state": "California",
+            "zipCode": "95014"
+        },
+        "preferences": {
+          "theme": "light",
+          "language": "French",
+          "notifications": true,
+          "subscription": true
+        }
+      }
+    ]
+  }
